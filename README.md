@@ -67,4 +67,14 @@ After tuning with GridSearchCV, the final model (`GradientBoostingRegressor`) ac
 - RMSE: ₹918.79  
 - R²: 0.9899
 
-  
+
+## Estructura del repositorio  
+── src/                
+    ├── data_sample/   
+    ├── img/            
+    ├── models/         
+    ├── notebooks/     
+    ├── utils/          
+├── main.ipynb          
+├── presentacion.pdf    
+├── README.md           
